@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html>
+<body>
+<h1>LALIT PATHADE</h1>
+<br>
+<br>
+<h2>"BASICS OF SQL"</h2>
+<embed src="C:\Users\Lalit\Desktop\HTML\sql certificate.pdf" width="100%">
+<br>
+<br>
+<h2>"GETTING STARTED WITH PYTHON"</h2>
+<embed src="C:\Users\Lalit\Desktop\HTML\python certificate.pdf">
+</body>
+</html>
